@@ -1,6 +1,6 @@
 # COMP-8090SEF-Project
 
-Task 2: Data structure: Heap & Algorithm: Heap Sort
+## Task 2: Data structure: Heap & Algorithm: Heap Sort
 
 ## Features
 - MaxHeap class with insert, extract_max, peek and heapify methods
