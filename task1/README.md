@@ -1,6 +1,5 @@
 # COMP-8090SEF-Project
 Task 1: Supermarket Inventory System
-A python-based system with GUI(Tkinter) demonstration.
 
 ## Features
 - Add, restock, sell and delete products
