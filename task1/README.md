@@ -1,6 +1,6 @@
 # COMP-8090SEF-Project
 
-## Task 1: Supermarket Inventory System
+## Task 1 : Supermarket Inventory System
 
 ### Features
 - Add, restock, sell and delete products
